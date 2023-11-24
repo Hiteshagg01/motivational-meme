@@ -1,0 +1,24 @@
+html {
+  font-size: 20px;
+}
+
+body {
+  background-color: black;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div {
+  margin: 4rem auto;
+  text-align: center;
+}
+
+img {
+  border: 2.5px solid #fff;
+}
+
+h1 {
+  text-transform: uppercase;
+}
